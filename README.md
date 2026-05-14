@@ -22,5 +22,5 @@ Analisa qualquer repositório de código fonte e gera relatório sobre:
 ## Instalação rápida
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SEU_USUARIO/skills/main/installers/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/renatoguarato/skills/main/installers/install.sh | bash
 ```
